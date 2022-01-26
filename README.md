@@ -29,11 +29,11 @@ If neither this site nor the Piazza has the information you need, you should [em
 [Official MIT Calendar](https://registrar.mit.edu/calendar)
 
 
-<!---
+
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |                 | __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/> regex | regex | top-down | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down~$][lec03] |
-| `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |                 |                 |                 |
+| `01/31 - 02/04` | __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/> regex | | regex | top-down | <br/>[L: top-down |
+| `02/07 - 02/11` |  shift-reduce | |   P1 OH<br/>(during lecture slot) |                 |                 |                 |                 |
 | `02/14 - 02/18` | [L: shift-reduce~104][lec04] | [L: shift-reduce~133][lec04] | [L: shift-reduce~$][lec04]<br/>[L: IR~52][lec05] | [L: IR~$][lec05] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/>[PSET A][pset a]<br/>[L: sem~$][lec06] |
 | `02/21 - 02/25` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>[L: codegen~58][lec07] | [L: codegen~79][lec07] | [L: codegen~$][lec07] | |
 | `02/28 - 03/04` | | | | | ADD DATE<br/>__P2 DUE__<br/> |

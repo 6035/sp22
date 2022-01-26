@@ -1,4 +1,4 @@
-# 6.035 Computer Language Engineering SP21
+# 6.035 Computer Language Engineering SP22
 
 __WE WILL MAKE ALL ANNOUNCEMENTS VIA [PIAZZA][piazza], SO MAKE SURE THAT YOU ENROLL__
 

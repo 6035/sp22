@@ -1,6 +1,6 @@
 # 6.035 Computer Language Engineering SP22
 
-__WE WILL MAKE ALL ANNOUNCEMENTS VIA [PIAZZA][piazza], SO MAKE SURE THAT YOU ENROLL__
+__WE WILL MAKE ALL ANNOUNCEMENTS VIA [To add Piazza], SO MAKE SURE THAT YOU ENROLL__
 
 If neither this site nor the Piazza has the information you need, you should [email the TA's directly](#course-staff)
 
@@ -34,7 +34,6 @@ If neither this site nor the Piazza has the information you need, you should [em
 
 - Faculty
     - Martin Rinard <rinard@csail.mit.edu>
-<!---    - Michael Carbin <mcarbin@csail.mit.edu> --->
 
 - TA
     - Shivam Handa <shivam@mit.edu>

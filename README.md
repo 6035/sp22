@@ -28,6 +28,19 @@ If neither this site nor the Piazza has the information you need, you should [em
 
 
 
+<!--- others --->
+[piazza]: https://piazza.com/mit/spring2022/6035
+[gform-1]: https://forms.gle/R2BebDW2ZEXfwtdE8
+
+
+
+<!--- handouts --->
+[course tools]: materials/handouts/01-athena.pdf
+[project info]: materials/handouts/01-project-overview.pdf
+[decaf spec]: materials/handouts/01-decaf-spec.pdf
+
+
+
 ## General Administrivia
 
 ### Course Staff
@@ -96,9 +109,11 @@ This class involves a group project, where you will build a compiler almost enti
 
 Lectures:
 
+<!---
 - 11am-12pm MTWRF on Zoom. The link will be distributed on [Piazza][piazza].
 
 To find out whether there is lecture on a given day, check the calendar above. Lectures will be recorded, so don't worry if you can't make them.
+-->
 
 ### Contact
 

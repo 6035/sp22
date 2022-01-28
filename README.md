@@ -74,6 +74,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 - TA
     - Shivam Handa <shivam@mit.edu>
+    - Alexandra Dima <adadima@mit.edu>
 
 ### MIT Catalog Description
 
@@ -107,8 +108,8 @@ Since lecture dates are not all finalized at the start of the semester, please c
 |----------------------|-------|
 |Project phases 2 and 3|25%    |
 |Project phases 4 and 5|50%    |
-|Problem set A         |9%     |
-|Problem set B         |10%    |
+|Quiz 1                |9%     |
+|Quiz 2                |10%    |
 |Miniquizzes           |6%     |
 
 For more information on the way the compiler project is graded, see the [project overview][project info].
@@ -133,7 +134,7 @@ This class involves a group project, where you will build a compiler almost enti
 
 Lectures:
 
-- 11am-12pm MWF in [32-124][http://whereis.mit.edu/?mapterms=32].
+- 11am-12pm MTWRF in [32-124][http://whereis.mit.edu/?mapterms=32].
 
 <!---
 - 11am-12pm MTWRF on Zoom. The link will be distributed on [Piazza][piazza].

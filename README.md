@@ -134,7 +134,7 @@ This class involves a group project, where you will build a compiler almost enti
 
 Lectures:
 
-- 11am-12pm MTWRF in [32-124][http://whereis.mit.edu/?mapterms=32].
+- 11am-12pm MTWRF in [32-124](http://whereis.mit.edu/?mapterms=32).
 
 <!---
 - 11am-12pm MTWRF on Zoom. The link will be distributed on [Piazza][piazza].

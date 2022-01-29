@@ -42,9 +42,9 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/14 - 03/18` | [L: reg][lec11]  | | [L: reg][lec11]| [L: lattice][lec12]  |  [P4 RELEASE][P4 RELEASE]<br/>__P3 DUE__ <br/>[L: lattice][lec12] |
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
 | `03/28 - 04/01` | | [L: schedule][lec15] |  | CPW<br/> | CPW<br/> |
-| `04/04 - 04/08` | Patriots' Day |  | [L: sched][lec15] | [L: parallel][lec13] | [P5 RELEASE][P5 RELEASE]<br/>__P4 DUE__<br/>[L: parallel][lec13] |
+| `04/04 - 04/08` | [L: sched][lec15] |  | [L: parallel][lec13] |  | [P5 RELEASE][P5 RELEASE]<br/>__P4 DUE__<br/>[L: parallel][lec13] |
 | `04/11 - 04/15` | | |  |  | Quiz 2|
-| `04/18 - 04/22` | Student Holiday | DROP DATE<br/> |                 |  | __CHECKPOINT__ |
+| `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | __CHECKPOINT__ |
 | `04/25 - 04/29` |                 |                 |                 | L: research | L: research |
 | `05/02 - 05/06` |                 |                 | __P5 DUE MIDNIGHT__      | __LAST DAY__<br/>__L: DERBY__ |      |
 

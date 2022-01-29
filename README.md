@@ -36,13 +36,13 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02]  |  | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down][lec03] |
 | `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] | [L: shift-reduce][lec04]<br/>[L: IR][lec05]   |
 | `02/14 - 02/18` | [L: IR][lec05] |  | [L: sem][lec06] | [L: codegen][lec07] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
-| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>Quiz 1<br/> | [L: codegen][lec07] | [L: codegen$][lec07] | [L: dataflow][lec08] |
-| `02/28 - 03/04` | [L: dataflow][lec08]  | | [L: dataflow][lec09] | [L: dataflow][lec09] | ADD DATE<br/>__P2 DUE__<br/>[L: loops][lec10]  |
+| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>Quiz 1<br/> | [L: codegen][lec07] | [L: codegen][lec07] | [L: dataflow][lec08] |
+| `02/28 - 03/04` | [L: dataflow][lec08]  | | [L: dataflow][lec09] | [L: dataflow][lec09] | [P3 RELEASE][P3 RELEASE]<br/>ADD DATE<br/>__P2 DUE__<br/>[L: loops][lec10]  |
 | `03/07 - 03/11` | [L: loops][lec10] |  | [L: lattice][lec12] | [L: lattice47][lec12] | [L: lattice][lec12] |
-| `03/14 - 03/18` | [L: reg][lec11]  | | [L: reg][lec11]| [L: lattice][lec12]  | [L: lattice$][lec12] |
-| `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | __P3 DUE__    |
+| `03/14 - 03/18` | [L: reg][lec11]  | | [L: reg][lec11]| [L: lattice][lec12]  |  [P4 RELEASE][P4 RELEASE]<br/>__P3 DUE__ <br/>[L: lattice][lec12] |
+| `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
 | `03/28 - 04/01` | | [L: schedule][lec15] |  | CPW<br/> | CPW<br/> |
-| `04/04 - 04/08` | Patriots' Day |  | [L: sched][lec15] | [L: parallel][lec13] | __P4 DUE__<br/>[L: parallel][lec13] |
+| `04/04 - 04/08` | Patriots' Day |  | [L: sched][lec15] | [L: parallel][lec13] | [P5 RELEASE][P5 RELEASE]<br/>__P4 DUE__<br/>[L: parallel][lec13] |
 | `04/11 - 04/15` | | |  |  | Quiz 2|
 | `04/18 - 04/22` | Student Holiday | DROP DATE<br/> |                 |  | __CHECKPOINT__ |
 | `04/25 - 04/29` |                 |                 |                 | L: research | L: research |
@@ -72,6 +72,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [P1 RELEASE]: phase-1/
 [P2 RELEASE]: phase-2/
 [P3 RELEASE]: phase-3/
+[P4 RELEASE]: phase-4/
+[P5 RELEASE]: phase-5/
 
 
 

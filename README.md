@@ -36,15 +36,15 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02]  |  | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down][lec03] |
 | `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] | [L: shift-reduce][lec04]<br/>[L: IR][lec05]   |
 | `02/14 - 02/18` | [L: IR][lec05] |  | [L: sem][lec06] | [L: codegen][lec07] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/>[Quiz 1][]<br/> |
-| `02/21 - 02/25` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/> | [L: codegen][lec07] | [L: codegen$][lec07] | |
+| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/> | [L: codegen][lec07] | [L: codegen$][lec07] | |
 | `02/28 - 03/04` | | | | | ADD DATE<br/>__P2 DUE__<br/> |
-| `03/07 - 03/11` | Student holiday | Student holiday | [L: dataflow][lec08] | [L: dataflow][lec08] | __PSET A DUE__ |
+| `03/07 - 03/11` |  |  | [L: dataflow][lec08] | [L: dataflow][lec08] | __PSET A DUE__ |
 | `03/14 - 03/18` | [L: dataflow][lec09] | | [L: dataflow][lec09] | | |
-| `03/21 - 03/25` |                 |                 |                 |                 | __P3 DUE__      |
+| `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | __P3 DUE__    |
 | `03/28 - 04/01` | [L: loops][lec10] | [L: loops][lec10] | [L: lattice][lec12] | CPW<br/>[L: lattice47][lec12] | CPW<br/> |
 | `04/04 - 04/08` | Patriots' Day | Student holiday | [L: lattice][lec12] | [L: reg][lec11] | __P4 DUE__<br/>[L: reg][lec11] |
 | `04/11 - 04/15` | [L: lattice][lec12] | | [L: lattice$][lec12] | DROP DATE<br/>[L: schedule][lec15] | |
-| `04/18 - 04/22` | __PSET B DUE__<br/>[L: sched][lec15] | [L: parallel][lec13] |                 | [L: parallel][lec13] | __CHECKPOINT__ |
+| `04/18 - 04/22` | Student Holiday__PSET B DUE__<br/>[L: sched][lec15] | [L: parallel][lec13] |                 | [L: parallel][lec13] | __CHECKPOINT__ |
 | `04/25 - 04/29` |                 |                 |                 | L: research | L: research |
 | `05/02 - 05/06` |                 |                 | __P5 DUE MIDNIGHT__      | __LAST DAY__<br/>__L: DERBY__ |      |
 

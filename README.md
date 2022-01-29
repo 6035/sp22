@@ -33,7 +33,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |                 | __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02] | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down$][lec03] |
+| `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02]  |  | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down$][lec03] |
 | `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |                 |                 |                 |
 | `02/14 - 02/18` | [L: shift-reduce][lec04] | [L: shift-reduce][lec04] | [L: shift-reduce$][lec04]<br/>[L: IR][lec05] | [L: IR$][lec05] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/>[Quiz 1][]<br/>[L: sem$][lec06] |
 | `02/21 - 02/25` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>[L: codegen][lec07] | [L: codegen][lec07] | [L: codegen$][lec07] | |
@@ -50,6 +50,28 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 
 
+<!--- lecture slides --->
+[lec01]: materials/lecture/lec01-f19-intro.pdf
+[lec02]: materials/lecture/lec02-f19-regex-grammar.pdf
+[lec03]: materials/lecture/lec03-f19-top-down-parsing.pdf
+[lec04]: materials/lecture/lec04-f19-shift-reduce-parsing.pdf
+[lec05]: materials/lecture/lec05-f19-intermediate-representation.pdf
+[lec06]: materials/lecture/lec06-f19-semantic-analysis.pdf
+[lec07]: materials/lecture/lec07-unoptimized-codegen.pdf
+[lec08]: materials/lecture/lec08-s21-program-analysis.pdf
+[lec09]: materials/lecture/lec09-program-analysis-2.pdf
+[lec10]: materials/lecture/lec10-loop-optimization.pdf
+[lec11]: materials/lecture/lec11-register-allocation.pdf
+[lec12]: materials/lecture/lec12-foundations-of-dataflow.pdf
+[lec13]: materials/lecture/lec13-parallelization.pdf
+[lec14]: materials/lecture/lec14-mem.pdf
+[lec15]: materials/lecture/lec15-sched.pdf
+
+
+<!--- project phases --->
+[P1 RELEASE]: phase-1/
+[P2 RELEASE]: phase-2/
+[P3 RELEASE]: phase-3/
 
 
 

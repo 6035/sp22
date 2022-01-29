@@ -34,9 +34,9 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
 | `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02]  |  | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down$][lec03] |
-| `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |                 |                 |                 |
-| `02/14 - 02/18` | [L: shift-reduce][lec04] | [L: shift-reduce][lec04] | [L: shift-reduce$][lec04]<br/>[L: IR][lec05] | [L: IR$][lec05] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/>[Quiz 1][]<br/>[L: sem$][lec06] |
-| `02/21 - 02/25` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>[L: codegen][lec07] | [L: codegen][lec07] | [L: codegen$][lec07] | |
+| `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] | [L: shift-reduce$][lec04]<br/>[L: IR][lec05]   |
+| `02/14 - 02/18` | [L: IR$][lec05] |  | [L: sem$][lec06] | [L: codegen][lec07] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/>[Quiz 1][]<br/> |
+| `02/21 - 02/25` | Student holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/> | [L: codegen][lec07] | [L: codegen$][lec07] | |
 | `02/28 - 03/04` | | | | | ADD DATE<br/>__P2 DUE__<br/> |
 | `03/07 - 03/11` | Student holiday | Student holiday | [L: dataflow][lec08] | [L: dataflow$][lec08] | __PSET A DUE__ |
 | `03/14 - 03/18` | [L: dataflow][lec09] | | [L: dataflow$][lec09] | | |

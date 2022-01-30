@@ -43,7 +43,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
 | `03/28 - 04/01` |   [L: loop optimization][lec10] | [L: loop optimization][lec10]  | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation][lec11] | [L: register allocation][lec11] |  |
 | `04/04 - 04/08` |  [L: dataflow analysis][lec12] | [L: dataflow analysis][lec12]  | [L: parallelization][lec13] | CPW<br/>[L: parallelization][lec13] | CPW  |
-| `04/11 - 04/15` |  [L: scheduling][lec14] | CPW<br/>[L: scheduling][lec14] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
+| `04/11 - 04/15` |  [L: scheduling][lec15] | CPW<br/>[L: scheduling][lec15] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
 | `04/25 - 04/29` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
 | `05/02 - 05/06` |                 |                 |  |  |      |

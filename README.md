@@ -37,13 +37,13 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `02/07 - 02/11` | [L: top-down][lec03] | [L: shift-reduce][lec04]   |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] |  |
 | `02/14 - 02/18` | [L: IR][lec05] | [L: IR][lec05] |   [L: IR][lec05] | |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
 | `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:sem][lec06] | [L:sem][lec06] | [L:sem][lec06] |  |
-| `02/28 - 03/04` | [L:codegen][lec07]  | [L:codegen][lec07] | [L:codegen][lec07] | [L:codegen][lec07] | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
-| `03/07 - 03/11` | [L: dataflow][lec08] | [L: dataflow][lec08] | [L: dataflow][lec08] | [L: dataflow][lec08] | Quiz 1 |
-| `03/14 - 03/18` | [L: loops][lec09] |[L: loops][lec09] | [L: reg][lec10]| [L: reg][lec10]  | |
+| `02/28 - 03/04` | [L:codegen][lec07]  | [L:codegen][lec07] |  |  | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
+| `03/07 - 03/11` | [L:codegen][lec07]  | [L:codegen][lec07] |  |  | Quiz 1 |
+| `03/14 - 03/18` | [L: dataflow][lec08] | [L: dataflow][lec08] | [L: dataflow][lec08]| [L: dataflow][lec08] | |
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
-| `03/28 - 04/01` | [L: lattice][lec11] | [L: lattice][lec11] |  |  |  __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE]  |
-| `04/04 - 04/08` | [L: schedule][lec12] | [L: schedule][lec12] | [L: parallel][lec13] | CPW<br/>[L: parallel][lec13] | CPW<br/> |
-| `04/11 - 04/15` | | |  |  | __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
+| `03/28 - 04/01` |   [L: loops][lec09] | [L: loops][lec09]  | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: reg][lec10] | [L: reg][lec10] |  |
+| `04/04 - 04/08` |  [L: lattice][lec11] | [L: lattice][lec11]  | [L: schedule][lec12] | CPW<br/>[L: schedule][lec12] | CPW  |
+| `04/11 - 04/15` |  [L: parallel][lec13] | CPW<br/>[L: parallel][lec13] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
 | `04/25 - 04/29` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
 | `05/02 - 05/06` |                 |                 |  |  |      |

@@ -33,21 +33,21 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]<br/>[L: regex][lec02]  |  | [L: regex][lec02] | [L: top-down][lec03] | [P1 RELEASE][P1 RELEASE]<br/>[L: top-down][lec03] |
-| `02/07 - 02/11` | P1 OH<br/>(during lecture slot) |                 |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] | [L: shift-reduce][lec04]<br/>[L: IR][lec05]   |
-| `02/14 - 02/18` | [L: IR][lec05] |  | [L: sem][lec06] | [L: codegen][lec07] | __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
-| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM]<br/>Quiz 1<br/> | [L: codegen][lec07] | [L: codegen][lec07] | [L: dataflow][lec08] |
-| `02/28 - 03/04` | [L: dataflow][lec08]  | | [L: dataflow][lec09] | [L: dataflow][lec09] | [P3 RELEASE][P3 RELEASE]<br/>ADD DATE<br/>__P2 DUE__<br/>[L: loops][lec10]  |
-| `03/07 - 03/11` | [L: loops][lec10] |  | [L: lattice][lec12] | [L: lattice][lec12] | [L: lattice][lec12] |
-| `03/14 - 03/18` | [L: reg][lec11]  | | [L: reg][lec11]| [L: lattice][lec12]  |  [P4 RELEASE][P4 RELEASE]<br/>__P3 DUE__ <br/>[L: lattice][lec12] |
+| `01/31 - 02/04` |  __FIRST DAY__<br/>[LOGISTICS FORM][gform-1]  | [L: regex][lec02] | [L: regex][lec01] | [L: top-down][lec03] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
+| `02/07 - 02/11` | [L: top-down][lec03] | [L: shift-reduce][lec04]   |   [L: shift-reduce][lec04]    | [L: shift-reduce][lec04] |  |
+| `02/14 - 02/18` | [L: IR][lec05] | [L: IR][lec05] |   [L: IR][lec05] | |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
+| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:sem][lec06] | [L:sem][lec06] | [L:sem][lec06] |  |
+| `02/28 - 03/04` | [L:codegen][lec07]  | [L:codegen][lec07] | [L:codegen][lec07] | [L:codegen][lec07] | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
+| `03/07 - 03/11` | [L: dataflow][lec08] | [L: dataflow][lec08] | [L: dataflow][lec08] | [L: dataflow][lec08] | Quiz 1 |
+| `03/14 - 03/18` | [L: loops][lec09] |[L: loops][lec09] | [L: reg][lec10]| [L: reg][lec10]  | |
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
-| `03/28 - 04/01` | | [L: schedule][lec15] |  | CPW<br/> | CPW<br/> |
-| `04/04 - 04/08` | [L: sched][lec15] |  | [L: parallel][lec13] |  | [P5 RELEASE][P5 RELEASE]<br/>__P4 DUE__<br/>[L: parallel][lec13] |
-| `04/11 - 04/15` | | |  |  | Quiz 2|
-| `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | __CHECKPOINT__ |
-| `04/25 - 04/29` |                 |                 |                 | L: research | L: research |
-| `05/02 - 05/06` |                 |                 | __P5 DUE MIDNIGHT__      | __LAST DAY__<br/>__L: DERBY__ |      |
-
+| `03/28 - 04/01` | [L: lattice][lec11] | [L: lattice][lec11] |  |  |  __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE]  |
+| `04/04 - 04/08` | [L: schedule][lec12] | [L: schedule][lec12] | [L: parallel][lec13] | CPW<br/>[L: parallel][lec13] | CPW<br/> |
+| `04/11 - 04/15` | | |  |  | __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
+| `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
+| `04/25 - 04/29` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
+| `05/02 - 05/06` |                 |                 |  |  |      |
+| `05/09 - 05/13` | __P5 DUE MIDNIGHT__     | __LAST DAY__<br/>__L: DERBY__ |
 
 
 <!--- lecture slides --->

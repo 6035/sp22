@@ -63,7 +63,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec10]: materials/lecture/lec10-loop-optimization.pdf
 [lec11]: materials/lecture/lec11-register-allocation.pdf
 [lec12]: materials/lecture/lec12-foundations-of-dataflow.pdf
-[lec13]: materials/lecture/lec13-parallelization.pdf
+[lec13]: materials/lecture/lec13-parallel.pdf
 [lec14]: materials/lecture/lec14-mem.pdf
 [lec15]: materials/lecture/lec15-sched.pdf
 

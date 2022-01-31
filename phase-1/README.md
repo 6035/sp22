@@ -13,12 +13,6 @@ Due dates are posted on the [class schedule](../README.md).
 1. [Project evaluation](#project-evaluation)
 1. [Submission](#submission)
 
-## IMPORTANT NOTE
-
-Due to scheduling oddities this semester, we will only be learning shift-reduce parsing on the week leading up to the due date of phase 1. This should not block you from starting on this phase if you plan to write a recursive descent parser by hand (And we encourage you to! See [Additional Notes](#additional-notes)), or if you're using Java/Scala (since ANTLR generates a recursive descent parser).
-
-On the other hand, the Go parser generator generates a shift-reduce parser, which is impossible to design or debug without understanding shift-reduce parsing. If you have prior knowledge of shift-reduce parsing or are willing to learn it on your own, go ahead. Otherwise, write a recursive descent parser by hand, or use Java/Scala. __DO NOT__ wait until the shift-reduce lectures to start working on your parser.
-
 ## Getting Started
 
 1. Read the [project specification](../materials/handouts/01-project-spec.md). __Pay special attention to the policy on third-party libraries.__

@@ -130,9 +130,9 @@ Since lecture dates are not all finalized at the start of the semester, please c
 |Component             |Weight |
 |----------------------|-------|
 |Project phases 2 and 3|25%    |
-|Project phases 4 and 5|50%    |
-|Quiz 1                |9%     |
-|Quiz 2                |10%    |
+|Project phases 4 and 5|45%    |
+|Quiz 1                |12%     |
+|Quiz 2                |12%    |
 |Miniquizzes           |6%     |
 
 For more information on the way the compiler project is graded, see the [project overview][project info].

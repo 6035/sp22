@@ -8,7 +8,7 @@ Projects should also contain a `doc/` directory in the project root, where the w
 
 ## Third-party Libraries
 
-You may use any libraries beyond the approved parser generators described in the phase 1 handouts and your chosen language's basic standard libraries for working with collections and data types. For example, Scala users may not use the PackratParsers package, and Haskell users may not use Data.Graph, Compiler, Parsec, or Control.Lens.Plated. Furthermore, Java/Scala users may not upgrade ANTLR beyond ANTLR 2. If you are unsure of whether or not you're allowed to use a piece of software, ask the TAs.
+You may not use any libraries beyond the approved parser generators described in the phase 1 handouts and your chosen language's basic standard libraries for working with collections and data types. For example, Scala users may not use the PackratParsers package, and Haskell users may not use Data.Graph, Compiler, Parsec, or Control.Lens.Plated. Furthermore, Java/Scala users may not upgrade ANTLR beyond ANTLR 2. If you are unsure of whether or not you're allowed to use a piece of software, ask the TAs.
 
 ## Command-line Interface
 

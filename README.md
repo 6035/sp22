@@ -33,17 +33,17 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec01] | [L: top-down parsing][lec03] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
-| `02/07 - 02/11` | [L: top-down parsing][lec03] | [L: shift-reduce parsing][lec04]   |   [L: shift-reduce parsing][lec04]    | [L: shift-reduce parsing][lec04] |  |
-| `02/14 - 02/18` | [L: Intermediate Representation][lec05] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
-| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics][lec06] | [L:semantics][lec06] | [L:semantics][lec06] |  |
-| `02/28 - 03/04` | [L:code generation][lec07]  | [L:code generation][lec07] |  |  | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
-| `03/07 - 03/11` | [L:code generation][lec07]  | [L:code generation][lec07] |  |  | Quiz 1 |
-| `03/14 - 03/18` | [L: program analysis][lec08] | [L: program analysis][lec08] | [L: program analysis][lec09]| [L: program analysis][lec09] | |
+| `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: top-down parsing] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
+| `02/07 - 02/11` | [L: top-down parsing] | [L: shift-reduce parsing]   |   [L: shift-reduce parsing]   | [L: shift-reduce parsing] |  |
+| `02/14 - 02/18` | [L: Intermediate Representation] | [L: Intermediate Representation] |   [L: Intermediate Representation] | |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
+| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics] | [L:semantics] | [L:semantics] |  |
+| `02/28 - 03/04` | [L:code generation]  | [L:code generation] |  |  | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
+| `03/07 - 03/11` | [L:code generation]  | [L:code generation] |  |  | Quiz 1 |
+| `03/14 - 03/18` | [L: program analysis] | [L: program analysis] | [L: program analysis] | [L: program analysis] | |
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
-| `03/28 - 04/01` |   [L: loop optimization][lec10] | [L: loop optimization][lec10]  | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation][lec11] | [L: register allocation][lec11] |  |
-| `04/04 - 04/08` |  [L: dataflow analysis][lec12] | [L: dataflow analysis][lec12]  | [L: parallelization][lec13] | CPW<br/>[L: parallelization][lec13] | CPW  |
-| `04/11 - 04/15` |  [L: scheduling][lec15] | CPW<br/>[L: scheduling][lec15] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
+| `03/28 - 04/01` |   [L: loop optimization] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |
+| `04/04 - 04/08` |  [L: dataflow analysis] | [L: dataflow analysis]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
+| `04/11 - 04/15` |  [L: scheduling] | CPW<br/>[L: scheduling] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
 | `04/25 - 04/29` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
 | `05/02 - 05/06` |                 |                 |  |  |      |
@@ -53,19 +53,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 <!--- lecture slides --->
 [lec01]: materials/lecture/S22-Introduction-01.pdf
 [lec02]: materials/lecture/S22-RegularExpressionsAndGrammars-02.pdf
-[lec03]: materials/lecture/lec03-f19-top-down-parsing.pdf
-[lec04]: materials/lecture/lec04-f19-shift-reduce-parsing.pdf
-[lec05]: materials/lecture/lec05-f19-intermediate-representation.pdf
-[lec06]: materials/lecture/lec06-f19-semantic-analysis.pdf
-[lec07]: materials/lecture/lec07-unoptimized-codegen.pdf
-[lec08]: materials/lecture/lec08-s21-program-analysis.pdf
-[lec09]: materials/lecture/lec09-program-analysis-2.pdf
-[lec10]: materials/lecture/lec10-loop-optimization.pdf
-[lec11]: materials/lecture/lec11-register-allocation.pdf
-[lec12]: materials/lecture/lec12-foundations-of-dataflow.pdf
-[lec13]: materials/lecture/lec13-parallel.pdf
-[lec14]: materials/lecture/lec14-mem.pdf
-[lec15]: materials/lecture/lec15-sched.pdf
+[lec03]: materials/lecture/S22-RegularExpressionsAndGrammars-02.pdf
 
 
 <!--- project phases --->

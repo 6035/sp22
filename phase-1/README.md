@@ -55,14 +55,13 @@ You might want to look at Section 3 in the Tiger book or Sections 4.3 and 4.8 in
 When `-t parse` is specified, any syntactically incorrect program should be flagged with at least one error message, and the program should exit with a non-zero exit code. Multiple error messages may be printed for programs with multiple syntax errors that are amenable to error recovery. Given a syntactically valid program, your parser should produce no output, and exit with the value zero (success). The exact format for parse error messages is not stipulated.
 
 ## Additional Notes
+In the past we used to allow the use of a parser generator. However, this year you should write a recursive descent parser by hand.
 
-We encourage (not force) you to write a recursive descent parser by hand rather than use a parser generator.
-
-One reason is that it will be a good learning experience, and you'll get to have a more intimate understanding of parsers and languages in general. In fact, many modern parsers (including the one used by GCC!) use recursive descent since it's a lot more powerful than parser generators.
+One reason for this is that it will be a good learning experience, and you'll get to have a more intimate understanding of parsers and languages in general. In fact, many modern parsers (including the one used by GCC!) use recursive descent since it's a lot more powerful than parser generators.
 
 A second and the more important reason is that you will have to choose teammates shortly after the completion of this phase. This is for you to be able to get a sense of other students' capabilities as software engineers before having to commit an entire semester to being their teammate. How well someone writes ANTLR grammars and lexer rules is not really indicative of how they write software. A recursive descent parser will be a nontrivial amount of code, and will be just about enough code to gauge someone's programming skills and for you to show off your own.
 
-A third reason is that it's more fun! Remember that if you use a parser generator, you'll still need to invest a significant amount of time into learning how it works and how to interact with it, so it's not even necessarily more work to use recursive descent.
+Lastly, a third reason is that it's more fun!
 
 ## Project evaluation
 

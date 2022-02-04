@@ -18,7 +18,7 @@ git pull skeleton master
 git remote add origin git@github.com:6035/<YOUR KERB>-phase1.git
 git push -u origin master
 
-git clone git@github.com:6035/tests.git
+git clone git@github.com:6035/tests-sp22.git tests
 ```
 
 This should initialize your phase 1 project directory with the skeleton code for your chosen language, and pull a copy of the tests repository into your project. The tests are managed as a separate Git project and should already be `gitignore`'d  in the provided skeleton code. If you get `Permission denied (publickey)`, make sure you have set up an SSH key with GitHub (see the [Git handout](git.md))

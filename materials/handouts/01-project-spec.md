@@ -8,7 +8,7 @@ Projects should also contain a `doc/` directory in the project root, where the w
 
 ## Third-party Libraries
 
-In phase1 you may not use any libraries beyond your chosen language's basic standard libraries for working with collections and data types. For example, Scala users may not use the PackratParsers package, and Haskell users may not use Data.Graph, Compiler, Parsec, or Control.Lens.Plated. Furthermore, keep in mind that we no longer allow the use of parser generators like Java/Scala's ANTLR or Go's goyacc. 
+In phase1 you may not use any libraries beyond parser generators and your chosen language's basic standard libraries for working with collections and data types. For example, Scala users may not use the PackratParsers package, and Haskell users may not use Data.Graph, Compiler, Parsec, or Control.Lens.Plated. Keep in mind that, while we allow the use of parser generators like Java/Scala's ANTLR or Go's goyacc, we strongly encourage you to implement the scanner and parser from scratch. 
 
 If you are unsure of whether or not you're allowed to use a piece of software, ask the TAs.
 

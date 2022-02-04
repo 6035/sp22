@@ -12,7 +12,7 @@ Create and navigate to a directory where you'd like your project files to be sto
 ```bash
 git init
 
-git remote add skeleton https://github.com/6035/<LANGUAGE>-skeleton.git
+git remote add skeleton https://github.com/6035/<LANGUAGE>-skeleton-sp22.git
 git pull skeleton master
 
 git remote add origin git@github.com:6035/<YOUR KERB>-phase1.git
@@ -35,7 +35,7 @@ While you are encouraged to use this infrastructure, you may also choose to modi
 
 ## Java/Scala
 
-The Java and Scala skeletons rely on ANTLR 2 for LL(\*) parser generation and Apache Ant for build automation (don't mix them up!). Ant is configured by the `build.xml` file, which we mainly use to run ANTLR and recursively select Java files for compilation. You are encouraged to read and understand the provided `build.xml`.
+The Java and Scala skeletons rely on Apache Ant for build automation. Ant is configured by the `build.xml` file, which we mainly use to recursively select Java files for compilation. You are encouraged to read and understand the provided `build.xml`.
 
 The Java skeleton has the following structure:
 
@@ -44,16 +44,15 @@ The Java skeleton has the following structure:
 |-- build.sh
 |-- run.sh
 |-- build.xml
-`-- lib
-    |-- antlr.jar
 `-- src
     `-- edu
         `-- mit
             `-- compilers
                 |-- Main.java
                 `-- grammar
-                    |-- scanner.g
-                    |-- parser.g
+                    |-- DecafParser.java
+                    |-- DecafScanner.java
+                    |-- Token.java
                 `-- tools
                     |-- CLI.java
     `-- decaf
@@ -61,47 +60,21 @@ The Java skeleton has the following structure:
             |-- Analyze.java
 ```
 
-The program entry point is located in `Main.java`. `CLI.java` implements the command-line interface described in the [project specification][project info]; you can modify it to add new command-line flags as needed. The ANTLR grammar files are `scanner.g` and `parser.g`. `Analyze.java` will only be used in phase 5; more information about it will be provided when phase 5 is released.
+The program entry point is located in `Main.java`. `CLI.java` implements the command-line interface described in the [project specification][project info]; you can modify it to add new command-line flags as needed. There are some dummy parser, scanner, and token classes defined in the `grammar` folder. `Analyze.java` will only be used in phase 5; more information about it will be provided when phase 5 is released.
 
-The Scala skeleton is similar, but with the source files in different locations. Specifically, `CLI.java` is located in `src/util/`, ANTLR and the ANTLR grammar files are located in `parser/`, and the equivalent of `Main.java` is `src/compile/Compiler.scala`. Also, we have included a sample unit test for convenience in the `unittests` directory, which may be run with `ant test`.
-
-Be warned that ANTLR 2 is not the latest version of ANTLR, which works very differently from ANTLR 2. We do not allow using the latest version of ANTLR as it contains many advanced features like rule rewriting. Be careful when searching for information about ANTLR on the web as information pertaining to the latest version of ANTLR will likely be incompatible with ANTLR 2. The documentation for ANTLR 2 can be found here: <https://www.antlr2.org/doc/index.html>
-
-ANTLR is invoked by the `scanner` and `parser` tasks of the Ant build file. The generated files, `DecafScanner.java`, etc, are placed in the `autogen` directory. Note that ANTLR merely generates a Java source file for a scanner class; it does not compile or even syntactically check its output. Thus, typos or syntactic errors in the scanner grammar file will be propagated to the output.
-
-An ANTLR generated scanner produces a string of tokens as its output. Each token has the following fields:
-
-- `type`: The integer type of the token.
-- `text`: The text of the token.
-- `line`: The line in which the token appears.
-- `col`: The column in which the token appears.
-
-Every distinguishable terminal in your Decaf grammar will have an automatically generated unique integer associated with it so that the parser can differentiate them. These values are created from your scanner grammar and stored in the generated `*TokenTypes.java` files.
-
-**Note:** You might be familiar with regexes from other languages. ANTLR 2's lexer rule syntax might share some similarities, but is actually very different. Consult the ANTLR 2 documentation for how to write them correctly.
+The Scala skeleton is similar, but with the source files in different locations. Specifically, `CLI.java` is located in `src/util/`, dummy parser files are located in `edu/mit/compilers/parser/`, and the equivalent of `Main.java` is `src/compile/Compiler.scala`. Also, we have included a sample unit test for convenience in the `unittests` directory, which may be run with `ant test`.
 
 ## Go
 
 Go enforces a "monorepo" structure and tries to put everything in the same directory. To make things portable, the provided code provides an alternate Go workspace in the `workspace` directory and points `GOPATH` to that in `build.sh`. Make sure you specify `GOPATH` if you need to run Go commands beyond `build.sh`.
 
-The Go skeleton project uses lexmachine for scanning and goyacc for LALR(1) parsing. The lexmachine source files are located in `workspace/src/github.com/timtadh/lexmachine`, while goyacc is provided precompiled in `lib/goyacc`.
+The files that you will actually be creating and modifying live in `workspace/src/mit.edu/compilers/compiler`. 
 
-The files that you will actually be creating and modifying live in `workspace/src/mit.edu/compilers/compiler`. You can access that directory quickly with the symbolic link `src` in the project root.
-
-In the source file directory, `main.go` contains the program entry point, and `cli.go` implements the command-line interface described in the [project specification][project info]. Feel free to modify `cli.go` to add more command-line flags as needed. `grammar` contains files related to scanning and parsing:
-
-- `parser.go` contains the Lex and Parse functions, as well as the lexmachine lexer rules.
-- `golex.go` contains the glue code to make goyacc work with lexmachine.
-- `parser.y` contains the goyacc parser rules.
-- `ast.go` contains the definitions for the AST constructed by goyacc.
-
-You should read these files and understand what they do. You can find documentation for lexmachine at <https://github.com/timtadh/lexmachine>. There isn't documentation for goyacc itself since it's a direct port of yacc, which has documentation at <http://dinosaur.compilertools.net/yacc/index.html>.
-
-When goyacc is invoked in `build.sh`, the files `y.go` and `y.output` are generated in the `grammar` directory beside `parser.y`. `y.output` contains the full parse table generated by goyacc, and you should read it when debugging your grammars. `y.go` is the parser itself, and you might find it useful to refer to it to understand how the generation process works.
+In the source file directory, `main.go` contains the program entry point, and `cli.go` implements the command-line interface described in the [project specification][project info]. Feel free to modify `cli.go` to add more command-line flags as needed. `parser` contains dummy files related to scanning and parsing: `scanner.go`, `parser,go`, and `token.go`
 
 # Running your compiler
 
-All skeleton projects come with a `build.sh` and `run.sh` in the project root. Use these to build and run your compiler respectively. They will also be used for grading, so if you make any changes to the build or run process, make sure to modify these files to reflect them.
+All skeleton projects come with a `build.sh` and `run.sh` in the project root. Use these to build and run your compiler respectively. They will also be used for grading, so if you make any changes to the build or run process, make sure to modify these files to reflect them. In general, these two files are the only restriction we impose on the structure of your projects. If you decide to change the repository structure, or even use a langiage for which we have no template, you just need to modify `build.sh` and `run.sh` to correctly build and run your system. 
 
 Arguments passed to `run.sh` are passed straight to your compiler. Read the [project specification][project info] for more information about the command-line arguments that your compiler should accept.
 

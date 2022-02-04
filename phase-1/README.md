@@ -55,7 +55,7 @@ You might want to look at Section 3 in the Tiger book or Sections 4.3 and 4.8 in
 When `-t parse` is specified, any syntactically incorrect program should be flagged with at least one error message, and the program should exit with a non-zero exit code. Multiple error messages may be printed for programs with multiple syntax errors that are amenable to error recovery. Given a syntactically valid program, your parser should produce no output, and exit with the value zero (success). The exact format for parse error messages is not stipulated.
 
 ## Additional Notes
-In the past we used to allow the use of a parser generator. However, this year you should write a recursive descent parser by hand.
+While you may use a parser generater like ANTLR(java/scala) or YACC (go), we strongly encourage you to write a recursive descent parser by hand.
 
 One reason for this is that it will be a good learning experience, and you'll get to have a more intimate understanding of parsers and languages in general. In fact, many modern parsers (including the one used by GCC!) use recursive descent since it's a lot more powerful than parser generators.
 

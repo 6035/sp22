@@ -6,6 +6,7 @@ Since you'll be doing a lot of coding in your chosen environment, it's worth inv
 
 While the class was traditionally run on Athena, we recommend against using Athena this semester. The dialup can be slow and isn't suited for computationally intensive work like optimizing programs.
 
+## Ubuntu 
 Subsequent instructions assume that you're on a default Ubuntu installation. If you're completely new to Linux, read [Using the Ubuntu Terminal](cmd.md). You will need to use the terminal at least to run the test scripts.
 
 We will be using Git to distribute test scripts and handle code submission. You should also use Git to collaborate with your teammates. If you're not familiar with basic Git usage like resolving merge conflicts, read [Using Git](git.md). That also includes instructions for setting up Git.
@@ -24,6 +25,7 @@ sudo apt install -y scala=2.11.12-4
 
 Make sure the environment variable `SCALA_HOME` is set to "/usr/share/scala".
 
+## MacOS
 If you are on Mac, the equivalent commands would look like this:
 
 ```

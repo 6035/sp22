@@ -22,6 +22,8 @@ If you're using Scala, also install Scala:
 sudo apt install -y scala=2.11.12-4
 ```
 
+Make sure the environment variable `SCALA_HOME` is set to "/usr/share/scala".
+
 If you are on Mac, the equivalent commands would look like this:
 
 ```
@@ -36,6 +38,7 @@ brew install ant
 ```
 brew install scala@2.11
 ```
+Make sure the environment variable `SCALA_HOME` is set to "/usr/local/opt/scala@2.11"
 
 **Important note:** Ant support has been removed from the latest version of Scala. Make sure that you're using at most Scala 2.11. If you'd like to use the latest Scala, feel free to update the build scripts to support it. With your permission, we might even be able to use them in later class offerings!
 

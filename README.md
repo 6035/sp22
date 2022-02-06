@@ -33,7 +33,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 
 |                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: top-down parsing] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
+| `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: grammars & parse trees][lec02] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
 | `02/07 - 02/11` | [L: top-down parsing] | [L: shift-reduce parsing]   |   [L: shift-reduce parsing]   | [L: shift-reduce parsing] |  |
 | `02/14 - 02/18` | [L: Intermediate Representation] | [L: Intermediate Representation] |   [L: Intermediate Representation] | |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
 | `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics] | [L:semantics] | [L:semantics] |  |

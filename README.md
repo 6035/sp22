@@ -37,8 +37,8 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `02/07 - 02/11` | [L: top-down parsing][lec03] | [L: top-down parsing][lec03]  |   [L: top-down parsing][lec03]   | [L: shift-reduce parsing][lec04] |  |
 | `02/14 - 02/18` | [L: shift-reduce parsing][lec04] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | [L:semantics] |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
 | `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics] | [L:semantics] | [L:semantics] |  |
-| `02/28 - 03/04` | [L:code generation]  | [L:code generation] |  |  | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
-| `03/07 - 03/11` | [L:code generation]  | [L:code generation] |  |  | Quiz 1 |
+| `02/28 - 03/04` | [L:code generation]  | [L:code generation] |  [L:code generation] |  [L:code generation] | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
+| `03/07 - 03/11` |  |  |  |  | Quiz 1 |
 | `03/14 - 03/18` | [L: program analysis] | [L: program analysis] | [L: program analysis] | [L: program analysis] | |
 | `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
 | `03/28 - 04/01` |   [L: loop optimization] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |

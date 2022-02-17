@@ -35,7 +35,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
 | `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: grammars & parse trees][lec02] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
 | `02/07 - 02/11` | [L: top-down parsing][lec03] | [L: top-down parsing][lec03]  |   [L: top-down parsing][lec03]   | [L: shift-reduce parsing][lec04] |  |
-| `02/14 - 02/18` | [L: shift-reduce parsing][lec04] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | [L:semantics] |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
+| `02/14 - 02/18` | [L: shift-reduce parsing][lec04] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | [L:semantics][lec06] |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
 | `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics] | [L:semantics] | [L:semantics] |  |
 | `02/28 - 03/04` | [L:code generation]  | [L:code generation] |  [L:code generation] |  [L:code generation] | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
 | `03/07 - 03/11` |  |  |  |  | Quiz 1 |
@@ -56,6 +56,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec03]: materials/lecture/lec03-f19-top-down-parsing.pdf
 [lec04]: materials/lecture/lec04-f19-shift-reduce-parsing.pdf
 [lec05]: materials/lecture/lec05-f19-intermediate-representation.pdf
+[lec06]: materials/lecture/lec06-f19-semantic-analysis.pdf
 
 <!--- project phases --->
 [P1 RELEASE]: phase-1/

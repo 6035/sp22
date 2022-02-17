@@ -31,22 +31,22 @@ If neither this site nor the Piazza has the information you need, you should [em
 __!!! Note: This schedule is tentative and may change throughout the semester. !!!__
 
 
-|                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          |
-| :-:             | :-:             | :-:             | :-:             | :-:             | :-:             |
-| `01/31 - 02/04` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: grammars & parse trees][lec02] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
-| `02/07 - 02/11` | [L: top-down parsing][lec03] | [L: top-down parsing][lec03]  |   [L: top-down parsing][lec03]   | [L: shift-reduce parsing][lec04] |  |
-| `02/14 - 02/18` | [L: shift-reduce parsing][lec04] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | [L:semantics][lec06] |  __P1 DUE__<br/>[P2 RELEASE][P2 RELEASE]<br/> |
-| `02/21 - 02/25` | Student Holiday | [SUBMIT TEAM][SUBMIT TEAM] <br/> [L:semantics] | [L:semantics] | [L:semantics] |  |
-| `02/28 - 03/04` | [L:code generation]  | [L:code generation] |  [L:code generation] |  [L:code generation] | __P2 DUE__<br/>[P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> |
-| `03/07 - 03/11` |  |  |  |  | Quiz 1 |
-| `03/14 - 03/18` | [L: program analysis] | [L: program analysis] | [L: program analysis] | [L: program analysis] | |
-| `03/21 - 03/25` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
-| `03/28 - 04/01` |   [L: loop optimization] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |
-| `04/04 - 04/08` |  [L: dataflow analysis] | [L: dataflow analysis]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
-| `04/11 - 04/15` |  [L: scheduling] | CPW<br/>[L: scheduling] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
-| `04/18 - 04/22` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
-| `04/25 - 04/29` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
-| `05/02 - 05/06` |                 |                 |  |  |      |
+|                 | Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday |  Sunday  |
+| :-:             | :-:             | :-:             | :-:             | :-:             | :-:             | :-:      | :-:      |
+| `01/31 - 02/06` |  __FIRST DAY__<br/>[L:intro][lec01]<br/>[LOGISTICS FORM][gform-1]  | [L: regular expressions][lec02] | [L: regular expressions][lec02] | [L: grammars & parse trees][lec02] |  P1 OH<br/><br/> [P1 RELEASE][P1 RELEASE] |
+| `02/07 - 02/13` | [L: top-down parsing][lec03] | [L: top-down parsing][lec03]  |   [L: top-down parsing][lec03]   | [L: shift-reduce parsing][lec04] |  |
+| `02/14 - 02/20` | [L: shift-reduce parsing][lec04] | [L: Intermediate Representation][lec05] |   [L: Intermediate Representation][lec05] | [L:semantics][lec06] |  [P2 RELEASE][P2 RELEASE]<br/> | | __P1 DUE__<br/>|
+| `02/21 - 02/27` | Student Holiday | [L:semantics] | [SUBMIT TEAM][SUBMIT TEAM] <br/>[L:semantics] | [L:semantics] |  |
+| `02/28 - 03/06` | [L:code generation]  | [L:code generation] |  [L:code generation] |  [L:code generation] | [P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> | | __P2 DUE__|
+| `03/07 - 03/13` |  |  |  |  | Quiz 1 |
+| `03/14 - 03/20` | [L: program analysis] | [L: program analysis] | [L: program analysis] | [L: program analysis] | |
+| `03/21 - 03/27` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
+| `03/28 - 04/03` |   [L: loop optimization] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |
+| `04/04 - 04/10` |  [L: dataflow analysis] | [L: dataflow analysis]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
+| `04/11 - 04/17` |  [L: scheduling] | CPW<br/>[L: scheduling] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
+| `04/18 - 04/24` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
+| `04/25 - 05/01` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
+| `05/02 - 05/08` |                 |                 |  |  |      |
 | `05/09 - 05/13` | __P5 DUE MIDNIGHT__     | __LAST DAY__<br/>__L: DERBY__ |
 
 

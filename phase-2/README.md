@@ -6,7 +6,7 @@ Extend your compiler to find, report, and recover from semantic errors in Decaf 
 
 This part of the project includes the following tasks:
 
-1. Create a high-level intermediate representation (IR) tree. You can do this either by adding actions to your grammar to build a tree, or by generating a generic tree with the parser generator and walking that to construct a new tree. The problem of designing an IR will be discussed in the lectures; some hints are given in the final section of this handout.
+1. Create a high-level intermediate representation (IR) tree. If you used a parser generator, you can do this either by adding actions to your grammar to build a tree, or by generating a generic tree with the parser generator and walking that to construct a new tree. If you implemented your recursive-descent parser from scratch, you will have to convert your parse tree/AST to the IR tree. The problem of designing an IR will be discussed in the lectures; some hints are given in the final section of this handout.
 
 	When running in debug mode, your compiler should pretty-print the constructed IR tree in some easily-readable form suitable for debugging. This will not graded, but is highly recommended by the course staff.
 1. Build symbol tables for the methods.  (A symbol table is an environment, i.e. a mapping from identifiers to semantic objects such as variable declarations.  Environments are structured hierarchically, in parallel with source-level constructs, such as method-bodies, loop-bodies, etc.)
@@ -69,7 +69,7 @@ Submitted repositories should have the following structure:
 
 Use the same procedure as in [phase 1](../phase-1/README.md#submission) to submit, but this time to the branch `phase2-submission`. Again, check that your submission gives the correct score on the grading server, but keep in mind that nothing on the grading server represents final scores.
 
-Note: please don't spam the grading server! Only submit when you're ready to submit, and **make sure that your compiler doesn't get caught in an infinite loop when running any of the tests**. Your order in the grading queue is determined by the total amount of time your team has consumed in previous submissions.
+Note: **please make sure that your compiler doesn't get caught in an infinite loop when running any of the tests**
 
 ## Implementation Suggestions
 
@@ -142,7 +142,7 @@ having to restart compilation.
 
 - Semantic checking should be done __top-down__. While the type-checking component of semantic checking can be done in bottom-up fashion, other kinds of checks (for example, detecting uses of undefined variables) can not.
 
-	There are two ways of achieving this. The first is to perform the checks at the same time as parsing, e.g. using parser actions in the middle of productions. This approach may require less code but can be more complex, because more work needs to be done directly within the parser generator.
+	There are two ways of achieving this. The first is to perform the checks at the same time as parsing, e.g. using parser actions in the middle of productions. This approach may require less code but can be more complex, because more work needs to be done directly within the parser/ parser generator.
 
 	A cleaner approach is to invoke your semantic checker on a complete AST after parsing has finished.  The pseudocode for `block` in this approach would resemble this:
 

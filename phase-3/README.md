@@ -43,7 +43,7 @@ For this project, you can just make sure that the stack pointer is always 16-byt
 
 ## Submission
 
-As a reminder, the documentation will count towards 20% of your project grade. __Refer to the [project overview][project info]__ to understand what is required of the writeup. In short, the writeup will be used to help us understand your code, convince us it's sufficiently general, and let us know anything that might not be reflected in your code. For this phase, the writeup should be just a few pages long. Of course, writing clean/easy-to-understand/well-commented code can save you a lot of work on the documentation.
+As a reminder, the documentation will count towards 20% of your project grade. It should help us understand your code, convince us it's sufficiently general, and let us know anything that might not be reflected in your code. Additionally, if there are any phase 2 tests that you were not passing before the phase 2 deadline, but fixed for phase 3, you should also include this information in the write up. Let us know which tests you fixed and what modifications were required. Also __refer to the [project overview][project info]__ to understand what is required of the writeup. For this phase, the writeup should be just a few pages long. Of course, writing clean/easy-to-understand/well-commented code can save you a lot of work on the documentation.
 
 Submitted repositories should have the following structure:
 

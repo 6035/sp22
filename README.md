@@ -39,10 +39,10 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `02/21 - 02/27` | Student Holiday | [L:codegen][lec07] | [SUBMIT TEAM][SUBMIT TEAM] <br/>[L:codegen][lec07] | [L:codegen][lec07] |  [L:codegen][lec07] |
 | `02/28 - 03/06` |   |  |   |   | [P3 RELEASE][P3 RELEASE] <br/> ADD DATE<br/> | | __P2 DUE__|
 | `03/07 - 03/13` |  |  |  |  | Quiz 1 |
-| `03/14 - 03/20` | [L: program analysis][lec08] | [L: program analysis][lec08] <br/> [L: dataflow analysis][lec09] | [L: dataflow analysis] | [L: dataflow analysis] | |
+| `03/14 - 03/20` | [L: program analysis][lec08] | [L: program analysis][lec08] <br/> [lec09] | [L: prog analysis] | [L: prog analysis] | |
 | `03/21 - 03/27` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
 | `03/28 - 04/03` |   [L: loop optimization] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |
-| `04/04 - 04/10` |  [L: TBD] | [L: TBD]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
+| `04/04 - 04/10` |  [L: dataflow] | [L: dataflow]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
 | `04/11 - 04/17` |  [L: scheduling] | CPW<br/>[L: scheduling] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/24` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
 | `04/25 - 05/01` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |

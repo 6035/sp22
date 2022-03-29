@@ -41,7 +41,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `03/07 - 03/13` |  |  |  |  | Quiz 1 |
 | `03/14 - 03/20` | [L: program analysis][lec08] | [L: program analysis][lec08] | [L: prog analysis][lec09] | [L: prog analysis][lec09] | [L: prog analysis][lec09] |
 | `03/21 - 03/27` |   Spring Break   |   Spring Break   |    Spring Break    |      Spring Break   | Spring Break   |
-| `03/28 - 04/03` |   [L: loop optimization][lec10] | [L: loop optimization] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation] | [L: register allocation] |  |
+| `03/28 - 04/03` |   [L: loop optimization][lec10] | [L: loop optimization][lec10] | __P3 DUE__ <br/> [P4 RELEASE][P4 RELEASE] <br/> [L: register allocation][lec11] | [L: register allocation] |  |
 | `04/04 - 04/10` |  [L: dataflow] | [L: dataflow]  | [L: parallelization] | CPW<br/>[L: parallelization] | CPW  |
 | `04/11 - 04/17` |  [L: scheduling] | [L: scheduling] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/24` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
@@ -61,6 +61,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec08]: materials/lecture/lec08-s21-program-analysis.pdf
 [lec09]: materials/lecture/lec09-program-analysis-2.pdf
 [lec10]: materials/lecture/lec10-loop-optimization.pdf
+[lec11]: materials/lecture/lec11-register-allocation.pdf
 
 <!--- project phases --->
 [P1 RELEASE]: phase-1/

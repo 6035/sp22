@@ -85,8 +85,28 @@ Use the same procedure as in [phase 1](../phase-1/README.md#submission) to submi
 	./tests/test.py dataflow -f cp-01 -D test-workspace
 	```
 
-1. Benchmark for performance: the test script includes benchmarking functionality using [hyperfine](https://github.com/sharkdp/hyperfine). You will need to download it and add it to your PATH for the test script to work. To run benchmarking, pass the `-b` flag, e.g.:
-    ```bash
-		./tests/test.py dataflow -f your-own-test -b
-    ```
-    1. Note that all tests that we have provided you thus far are super small, and they run in less than 5 milliseconds. This is too small for any differences to show during benchmarking. We encourage you to write and benchmark your own decaf programs that take a long time to run, on the order of seconds.
+1. Benchmark for performance: the test script includes benchmarking functionality using [hyperfine](https://github.com/sharkdp/hyperfine). You will need to follow the steps below in order to make it work: 
+
+	a) Hypefine is not installed on athena, so you will have to download and install it locally:
+
+	```bash
+	wget https://github.com/sharkdp/hyperfine/releases/download/v1.13.0/hyperfine_1.13.0_i686.deb
+	dpkg -x hyperfine_1.13.0_i686.deb $HOME
+	```
+
+	This will create the hyperfine executable at location `$HOME/usr/bin/hyperfine`
+
+	b) To run the tests with benchmarking, you need to append the hyperfine location to your path as well as pass the `-b` flag, e.g.:
+
+	```bash
+	PATH="$HOME/usr/bin/:$PATH" python3 tests/test.py dataflow -b
+	```
+
+	c) If you want to use hyperfine to benchmark only one specific example of your own, you will need to compile your decaf file to an assembly file, and assemble that into an executable. Hyperfine can then take the executable as argument for benchmarking it:
+	```bash
+	./run.sh --opt=all --target=assembly --output=out.S your-decaf-program.dcf
+	gcc -no-pie -O0 your-decaf-program.S -o your-decaf-program
+	$HOME/usr/bin/hyperfine ./your-decaf-program
+	```
+
+	1. Note that all tests that we have provided you thus far are super small, and they run in less than 5 milliseconds. This is too small for any differences to show during benchmarking. We encourage you to write and benchmark your own decaf programs that take a long time to run, on the order of seconds.

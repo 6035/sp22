@@ -64,7 +64,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 [lec11]: materials/lecture/lec11-register-allocation.pdf
 [lec12]: materials/lecture/lec13-parallel.pdf
 [lec13]: materials/lecture/lec12-foundations-of-dataflow.pdf
-[lec 14]: materials/lecture/memory_optimization_sp22.pdf
+[lec14]: materials/lecture/memory_optimization_sp22.pdf
 
 <!--- project phases --->
 [P1 RELEASE]: phase-1/

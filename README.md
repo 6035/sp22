@@ -45,7 +45,7 @@ __!!! Note: This schedule is tentative and may change throughout the semester. !
 | `04/04 - 04/10` |  [L: dataflow][lec13] | [L: dataflow][lec13]  | [L: dataflow][lec13]| [L: dataflow][lec13] | [L: dataflow][lec13] |
 | `04/11 - 04/17` |  [L: memory opt][lec14] | [L: memory opt][lec14] | |  |  __P4 DUE__<br/>[P5 RELEASE][P5 RELEASE]<br/> |
 | `04/18 - 04/24` | Patriots' Day  | DROP DATE<br/> |                 |  | Quiz 2 |
-| `04/25 - 05/01` |                |      L: research             |       L: research           |  __CHECKPOINT__  | |
+| `04/25 - 05/01` |                |      L: research             |       L: research           |   | __CHECKPOINT__ |
 | `05/02 - 05/08` |                 |                 |  |  |      |
 | `05/09 - 05/13` | __P5 DUE MIDNIGHT__     | __LAST DAY__<br/>__L: DERBY__ |
 
